@@ -1,0 +1,36 @@
+# MATLAB specific files
+*.asv          # MATLAB autosave files
+*.m~           # MATLAB backup files
+*.log          # Log files
+*.prj          # MATLAB project files
+*.fig          # MATLAB figure files (if not meant for version control)
+*.mat          # MATLAB data files (if they are generated or too large,
+               # otherwise you might want to track small dataset files)
+*.mex* # MEX-files (compiled C/C++/Fortran code for MATLAB)
+*.p            # P-code files (obscured MATLAB code)
+
+# Operating System specific files
+.DS_Store      # macOS folder metadata
+Thumbs.db      # Windows thumbnail cache
+desktop.ini    # Windows folder customization
+
+# IDE specific files (if you use other IDEs)
+.vscode/       # VS Code configuration
+.idea/         # IntelliJ/PyCharm configuration
+*.user         # Visual Studio user files
+
+# Compiled files / Build artifacts
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+
+# Environment variables / sensitive data (general, if applicable)
+.env
+config.ini
+secrets.py
+
+# Empty directories (Git doesn't track empty directories by default)
+# You can add .gitkeep inside an empty directory if you want to track it
+# e.g., data/.gitkeep
