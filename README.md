@@ -20,9 +20,12 @@ Untuk menjalankan aplikasi ini, Anda memerlukan MATLAB dengan Image Processing T
 # Penulis: Mohammad Satria Zacky/Github:Rizmyyy
 # Dokumentasi Proyek
 1. SDeteksi Tanah Halus
-![Uploading Screenshot 2025-06-25 164737.png…]()
+![Screenshot 2025-06-24 221748](https://github.com/user-attachments/assets/180cabac-2c30-4cbc-97ba-d1525561a4b7)
+
 ![Screenshot 2025-06-25 164806](https://github.com/user-attachments/assets/3dc0c39e-622d-41e5-9fa6-aa7c99e83323)
-2. Deteksi Tanah Kasar
-![Screenshot 2025-06-25 165248](https://github.com/user-attachments/assets/d70dae5c-a57e-4c50-ac56-bf39dd688a38)
+
+3. Deteksi Tanah Kasar
+![Screenshot 2025-06-24 222458](https://github.com/user-attachments/assets/f51f9bb1-7930-4bc4-8018-807660643805)
+
 ![Screenshot 2025-06-25 165633](https://github.com/user-attachments/assets/c730c958-7dbe-4c41-a148-afe81c1ed0cf)
 
